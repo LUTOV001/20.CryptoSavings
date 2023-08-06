@@ -53,7 +53,7 @@
 ### Below are the screen shots showing the application and results from executing the steps described above:  
 ### ***1. Contract Deployment***
 #### Shows the Deployed Contract details in Remix.
-##### ![contract_deployment.jpg](https://github.com/LUTOV001/20.CryptoSavings/blob/main/Execution_Results/contract_payments.jpg)
+##### ![contract_deployment.jpg](https://github.com/LUTOV001/20.CryptoSavings/blob/main/Execution_Results/contract_deployment.jpg)
 #####
 ### ***2. Deposit***
 #### Shows the results of depositing 300 wei in the account. Look the 300 shound under the `contractBalance` button on the bottom left.
@@ -61,11 +61,11 @@
 #####
 ### ***3. Withdraw 10 wei***
 #### Shows the update balance of 340 wei after the `transact` button in the ***withdraw*** section is pressed and the  10 wei amount shown is processed.
-##### ![withdraw10.jpg]((https://github.com/LUTOV001/20.CryptoSavings/blob/main/Execution_Results/withdraw10.jpg)
+##### ![withdraw10.jpg](https://github.com/LUTOV001/20.CryptoSavings/blob/main/Execution_Results/withdraw10.jpg)
 ####
 ### ***5. Transfer 50 wei***
 #### Shows the update balance of 290 wei after the `transact` button in the ***deposit*** section is pressed and the  50 wei amount shown in the `Value` section is processed.
-##### ![transfer50.jpg]((https://github.com/LUTOV001/20.CryptoSavings/blob/main/Execution_Results/transfer50.jpg)
+##### ![transfer50.jpg](https://github.com/LUTOV001/20.CryptoSavings/blob/main/Execution_Results/Transfer50.jpg)
 ---
 ### **Credits**
 #### Prepared by Luis Torres 
